@@ -1,5 +1,5 @@
 # BattleshipTCPSocket
-##Nhóm tác giả: Đặng Văn Đại - K57 ĐH Bách Khoa HN.
+## Nhóm tác giả: Đặng Văn Đại - K57 ĐH Bách Khoa HN.
 
 Trò chơi Battleship cho 2 người chơi trên mạng bằng giao thức socket TCP. Hai người chơi cần kết nối với nhau để bắt đầu trò chơi. Bản đồ
 là 1 ma trận 10 x 10, mỗi người chơi bố trí ngẫu nhiên 5 con tàu thuộc 5 loại khác nhau và tất nhiên kích thước cũng khác nhau (tàu lớn nhất có kích
